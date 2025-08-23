@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Indian Institute of Technology Guwahati
+#subtitle: <a href='#'>Affiliations</a>. Indian Institute of Technology Guwahati
 
 profile:
   align: right
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, and welcome to my homepage!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my BTech in Chemical Science and Technology, with a minor in Biosciences and Bioengineering, at IIT Guwahati. I’m interested in combining molecular simulations and experiments to understand how molecular organization drives function. During my Bachelor’s thesis with Dr. Debdas Dhabal (IIT Guwahati), I used molecular dynamics simulations to probe wetting on functionalized surfaces and supramolecular assemblies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I now work in Prof. Uttam Manna’s lab on experimental materials science, focusing on electrochemistry — especially the hydrogen and oxygen evolution reactions (HER/OER) and soft-matter systems such as hydrogels.
+
+When I’m not in the lab, you’ll find me making music, playing piano, or learning new things on YouTube.
+
+Please feel free to reach out to me if you have any queries, or just to have an interesting conversation on any of the things we might have in common!
