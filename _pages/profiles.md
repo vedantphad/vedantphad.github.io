@@ -50,9 +50,20 @@ profiles:
 
 **Convocation**
 
-<img align=left src="/assets/img/Convocation.jpg" alt="" width="400"/>
+<img align=left src="/assets/img/Convocation.jpg" alt="" width="390"/>
 
 <img align=right src="/assets/img/Degree.jpg" alt="" width="400"/>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <br />
 <br />
