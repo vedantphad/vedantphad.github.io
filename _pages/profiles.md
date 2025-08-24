@@ -2,9 +2,9 @@
 layout: page
 permalink: /gallery/
 title: Gallery
-description: Some moments of college life
+#description: Some moments of college life
 nav: gallery
-nav_order: 4
+nav_order: 6
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -45,3 +45,77 @@ profiles:
     image: Uttam_Manna_lab_group.jpg
     content: about_einstein.md
 ---
+
+<br />
+
+**Convocation**
+
+<img align=left src="/assets/img/Convocation.jpg" alt="" width="400"/>
+
+<img align=right src="/assets/img/Degree.jpg" alt="" width="400"/>
+
+<br />
+<br />
+<br />
+
+
+
+**Tea time with Debdas sir's lab group**
+
+
+<img src="/assets/img/CCD_Debdas_sir.jpg" alt="" width="800"/>
+
+<br />
+<br />
+<br />
+
+
+
+**Last day of class at IIT Guwahati**
+<img src="/assets/img/Class_Uttam_Manna.jpg" alt="" width="800"/>
+
+
+<br />
+<br />
+<br />
+
+
+**With the Cmat Lab Group members**
+<img src="/assets/img/Debdas_sir_lab_group.jpg" alt="" width="800"/>
+
+
+
+<br />
+<br />
+<br />
+
+
+
+
+**With Kalishankar sir's lab group members**
+<img src="/assets/img/kalishankar_sir_lab_group.jpg" alt="" width="800"/>
+
+
+
+
+
+
+<br />
+<br />
+<br />
+
+
+
+
+**With the seniors of Uttam Manna sir's lab group**
+<img src="/assets/img/Uttam_Manna_lab_group.jpg" alt="" width="800"/>
+
+
+
+
+<br />
+<br />
+<br />
+
+
+
