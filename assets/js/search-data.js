@@ -403,11 +403,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-graduated-from-iit-guwahati-with-a-b-tech-degree-in-chemical-science-and-technology-and-a-minor-in-biotechnology",
           title: 'Graduated from IIT Guwahati with a B.Tech. degree in Chemical Science and Technology,...',
           description: "",
