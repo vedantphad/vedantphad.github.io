@@ -37,4 +37,4 @@ When I’m not in the lab, you’ll find me listening to music, playing piano, o
 
 Please feel free to reach out to me if you have any queries, or just to have an interesting conversation on any of the things we might have in common!
 
-<img align="center" src="./assets/img/Vedant_short_gif.gif" alt="Vedant-Water-Simulation" height="300" width="600"/>
+<img align="center" src="./assets/img/Vedant_short_gif.gif" alt="Vedant-Water-Simulation" height="300" width="900"/>
