@@ -27,16 +27,16 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor Uttam Manna",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet..."
-    },
-    {
-      "name": "Dr. Debdas Dhabal",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet..."
-    }
-  ]
+ "references": [
+  {
+    "name": "Dr. Uttam Manna",
+    "icon": "fa-solid fa-thumbtack",
+    "reference": "Professor, IIT Guwahati\nEmail - umanna@iitg.ac.in\nContact - +91 361 258 3477"
+  },
+  {
+    "name": "Dr. Debdas Dhabal",
+    "icon": "fa-solid fa-laptop",
+    "reference": "Assistant Professor, IIT Guwahati\nEmail - ddhabal@iitg.ac.in\nContact - +91 361 258 3485"
+  }
+]
 }
