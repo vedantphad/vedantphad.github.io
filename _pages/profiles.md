@@ -55,8 +55,7 @@ profiles:
   <img src="/assets/img/Convocation.jpg" alt="Convocation" style="height: 350px; object-fit: cover; border-radius: 6px;">
 </div>
 
-<br />
-<br />
+
 <br />
 <br />
 <br />
