@@ -50,9 +50,9 @@ profiles:
 
 **Convocation**
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-  <img src="/assets/img/Convocation.jpg" alt="Convocation" style="width: 45%; max-width: 500px;"/>
-  <img src="/assets/img/Degree.jpg" alt="Degree" style="width: 45%; max-width: 500px;"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start;">
+  <img src="/assets/img/Convocation.jpg" alt="Convocation" style="height: 350px; object-fit: cover; border-radius: 6px;">
+  <img src="/assets/img/Degree.jpg" alt="Degree" style="height: 350px; object-fit: cover; border-radius: 6px;">
 </div>
 
 <br /><br /><br />
