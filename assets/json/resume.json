@@ -31,12 +31,12 @@
   {
     "name": "Dr. Uttam Manna",
     "icon": "fa-solid fa-thumbtack",
-    "reference": "Professor, IIT Guwahati\nEmail - umanna@iitg.ac.in\nContact - +91 361 258 3477"
+    "reference": "Professor, IIT Guwahati<br>Email - umanna@iitg.ac.in<br>Contact - +91 361 258 3477"
   },
   {
     "name": "Dr. Debdas Dhabal",
     "icon": "fa-solid fa-laptop",
-    "reference": "Assistant Professor, IIT Guwahati\nEmail - ddhabal@iitg.ac.in\nContact - +91 361 258 3485"
+    "reference": "Assistant Professor, IIT Guwahati<br>Email - ddhabal@iitg.ac.in<br>Contact - +91 361 258 3485"
   }
 ]
 }
