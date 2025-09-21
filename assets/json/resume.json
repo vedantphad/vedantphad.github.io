@@ -1,13 +1,12 @@
 {
-  "General Information": {
+  "basics": {
     "name": "Vedant S. Phad",
     "label": "Graduate Student",
     "image": "",
     "email": "vedantsphad@gmail.com",
     "url": "https://vedantphad.github.io/"
   },
-  
-  "Education": [
+  "education": [
     {
       "institution": "Indian Institute of Technology, Guwahati",
       "location": "Assam, India",
@@ -18,8 +17,7 @@
       "endDate": "2025-05-04"
     }
   ],
-    
-  "Interests": [
+  "interests": [
     {
       "name": "Chemistry",
       "icon": "fa-solid fa-tag",
@@ -30,18 +28,16 @@
       ]
     }
   ],
-
-  "References": [
+  "references": [
     {
       "name": "Professor Uttam Manna",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet..."
     },
     {
       "name": "Dr. Debdas Dhabal",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lorem ipsum dolor sit amet..."
     }
   ]
-
 }
