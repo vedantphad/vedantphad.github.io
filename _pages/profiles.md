@@ -55,7 +55,6 @@ profiles:
   <img src="/assets/img/Degree.jpg" alt="Degree" style="height: 350px; object-fit: cover; border-radius: 6px;">
 </div>
 
-<br /><br /><br />
 <br />
 <br />
 <br />
