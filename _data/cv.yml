@@ -32,7 +32,13 @@
 - title: References
   type: list
   contents:
-    - name: Professor Uttam Manna
-      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem."
+    - name: Dr. Uttam Manna
+      value: |
+        Professor, IIT Guwahati  
+        Email - umanna@iitg.ac.in  
+        Contact - +91 361 258 3477
     - name: Dr. Debdas Dhabal
-      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem."
+      value: |
+        Assistant Professor, IIT Guwahati  
+        Email - ddhabal@iitg.ac.in  
+        Contact - +91 361 258 3485
