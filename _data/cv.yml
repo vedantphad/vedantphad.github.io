@@ -1,58 +1,38 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Vedant S. Phad
-    - name: Date of Birth
-      value: 10th February 2003
-    - name: Languages
-      value: English, Hindi, Marathi
+    - name: Label
+      value: Graduate Student
+    - name: Email
+      value: vedantsphad@gmail.com
+    - name: Website
+      value: https://vedantphad.github.io/
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Technology (B.Tech.)
       institution: Indian Institute of Technology, Guwahati
-      year: 2025
+      location: Assam, India
+      year: 2021 – 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Area: Chemical Science and Technology
 
-
-- title: Experience
-  type: time_table
+- title: Interests
+  type: list
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Chemistry
+      items:
+        - Computational Chemistry
+        - Molecular Dynamics
+        - Material Science
 
-
-- title: Academic Interests
-  type: nested_list
+- title: References
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+    - name: Professor Uttam Manna
+      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem."
+    - name: Dr. Debdas Dhabal
+      value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem."
