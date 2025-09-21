@@ -398,11 +398,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-graduated-from-iit-guwahati-with-a-b-tech-degree-in-chemical-science-and-technology-and-a-minor-in-biotechnology",
           title: 'Graduated from IIT Guwahati with a B.Tech. degree in Chemical Science and Technology,...',
           description: "",
