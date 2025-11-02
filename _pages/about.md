@@ -31,7 +31,7 @@ Hello, and welcome to my homepage!
 
 I completed my BTech in Chemical Science and Technology, with a minor in Biosciences and Bioengineering, at <a href="https://iitg.ac.in/" target="_blank" rel="noopener noreferrer">IIT Guwahati</a>. I’m interested in combining molecular simulations and experiments to understand how molecular organization drives function. During my Bachelor’s thesis with <a href="https://sites.google.com/site/debdasdhabal/home" target="_blank" rel="noopener noreferrer">Dr. Debdas Dhabal</a>, I used molecular dynamics simulations to probe wetting on functionalized surfaces and study supramolecular assemblies.
 
-I now work in <a href="https://uttammannaiitg.wixsite.com/polymericlab" target="_blank" rel="noopener noreferrer">Prof. Uttam Manna’s</a> lab on experimental materials science, focusing on electrochemistry - especially the hydrogen and oxygen evolution reactions (HER/OER) and soft-matter systems such as hydrogels.
+I now work in <a href="https://uttammannaiitg.wixsite.com/polymericlab" target="_blank" rel="noopener noreferrer">Prof. Uttam Manna’s</a> lab on experimental Materials Chemistry, focusing on electrochemistry - especially the hydrogen and oxygen evolution reactions (HER/OER) and soft-matter systems such as hydrogels.
 
 When I’m not in the lab, you’ll find me listening to music, playing piano, or learning new things on YouTube.
 
