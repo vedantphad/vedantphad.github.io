@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/Vedant_CV.pdf";
+            window.location.href = "/assets/pdf/Vedant_cv.pdf";
           
         },
       },{id: "post-a-post-with-plotly-js",
